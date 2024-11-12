@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/Fonts/Danfo-Regular-VariableFont_ELSH.ttf",
+      "sha1": "6ffa2a89faec85f86951db7b53e86c2c49213807"
+    },
+    {
+      "path": "src/Assets/Fonts/ItaliannoRegular.ttf",
+      "sha1": "1d0fca4d186f74e1567d7aef33998fea1d837284"
+    },
+    {
+      "path": "src/Assets/Fonts/RubikWetPaint-Regular.ttf",
+      "sha1": "3f6b62bc0fed848896337e1975df515fd7a9f79b"
+    }
+  ]
+}
